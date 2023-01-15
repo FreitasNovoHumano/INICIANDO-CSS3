@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2? família=Bangers&família=Lua+Dança&família=Poppins:wght@100&família=Roboto:ital,wght@1,300&display=swap');
+
+* {
+  margin: 20px 20px;
+  font-size: 17px;
+}
+
+body{
+  margin: 20px 20px;
+}
+h1 {
+  font-family: "Bangers", cursive;
+  font-size: 36px;
+  font-weight: 400;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: red;
+  padding: 5px;
+}
+
+h2 {
+  font-family: Montserrat, Arial, sans-serif;
+  font-size: 20px;
+  border-style: double;
+  border-radius: 5px;
+  border-color: green;
+  padding: 5px;
+}
+
+h3 {
+  font-family: Poppins, Arial, sans-serif;
+  font-size: 20px;
+  border-style: dashed;
+  border-radius: 5px;
+  border-color: blue;
+  padding: 5px;
+}
+
+.test-font1 {
+  font-family: "Courier New", Courier, monospace;
+  text
+}
+
+.test-font2 {
+  font-family: "Roboto", Arial, sans-serif;  
+}
+
+.test-font3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.obs{
+  font-family: "Dança da Lua", cursiva;
+  font-size: 400;
+}
+
+.btn {
+  color: black;
+  text-decoration: none;
+  margin: 20px;
+  background-color: #f1c40f;
+  padding: 10px;
+}
