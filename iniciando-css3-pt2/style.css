@@ -1,6 +1,24 @@
-body {
-  margin: 0px;
+* {
+  margin: 20px;
 }
+.btn {
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+  background-color: #f1c40f;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #e74c3c;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #e74c3c;
+}
+
 h1 {
   font-family: "Montserrat" sans-serif;
 }
